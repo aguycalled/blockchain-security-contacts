@@ -29,6 +29,7 @@ This document is a work in progress. We're happy to accept feedback, questions, 
 | Litecoin | contact@litecoin.org |  |
 | Nem | contact@nem.io | |
 | Neo | contact@neo.org | |
+| NavCoin | disclosure@navcoin.org | |
 | Monero | [Multiple](https://github.com/monero-project/meta/blob/master/VULNERABILITY_RESPONSE_PROCESS.md) | [Bug bounty](https://hackerone.com/monero) |
 | Ontology | contact@ont.io | |
 | Ripple | bugs@ripple.com | [Bug bounty](https://ripple.com/bug-bounty/) |
